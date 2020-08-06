@@ -1,15 +1,10 @@
 {
 	"cmdPrefix": "!",
-	"players": [
-		"Marn"
-	],
-	"allianceName": "<NONE>",
-	"guildName": "8-bit",
+	"players": [""],
+	"guildName": "Bloco de Rua",
 	"username": "AO-Killbot",
-	"admins": [
-		""
-	],
-	"botChannel": "",
+	"admins": [""],
+	"botChannel": "686663144285667330",
 	"playingGame": "Albion Killboard Bot",
-	"token": ""
+	"token": "NzQwOTM3OTkzNTkzOTQ2MTgy.XywSRw.wnzP52mdnRO12XDiWz46J6u6tTo"
 }
